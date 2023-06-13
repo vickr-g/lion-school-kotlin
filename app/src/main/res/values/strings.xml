@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lion-school</string>
+    <string name="title_activity_tela_cursos">TelaCursos</string>
+    <string name="title_activity_tela_alunos">TelaAlunos</string>
+</resources>
